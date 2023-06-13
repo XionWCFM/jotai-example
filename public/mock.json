@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "profileSrc": "/images/HaeYongLee/websta_circle.png",
+    "profileId": "hey.yong44",
+    "imgSrc": "/images/HaeYongLee/article1.jpg",
+    "feedScript": "저녁엔 피맥 한잔~"
+  },
+  {
+    "id": 2,
+    "profileSrc": "/images/HaeYongLee/websta_circle.png",
+    "profileId": "hey.yong44",
+    "imgSrc": "/images/HaeYongLee/JjangAh.jpg",
+    "feedScript": "잘자는 댕댕이 짱아"
+  },
+  {
+    "id": 3,
+    "profileSrc": "/images/HaeYongLee/websta_circle.png",
+    "profileId": "hey.yong44",
+    "imgSrc": "/images/HaeYongLee/cherry_blossom.jpg",
+    "feedScript": "봄에는 역시 벚꽃 구경"
+  }
+]
